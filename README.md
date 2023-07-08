@@ -1,4 +1,4 @@
-# API Where to Surf
+# API Where2Surf
 
 API that evaluates the surf condition for a given beach.
 
